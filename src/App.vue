@@ -10,7 +10,7 @@ import HelloWorld from './components/HelloWorld.vue'
     <li>Create a git repository for the project</li>
     <li>publish, commit and push your changes on git hub desktop</li>
     <li>go to Netlify and create new site from existing</li>
-    <li>Important setup:</li>
+    <li>Important setup: npm run buil + dist/</li>
     <li>Enjoy</li>
   </ol>
 
