@@ -18,6 +18,11 @@ import HelloWorld from './components/HelloWorld.vue'
 </template>
 
 <style scoped>
+h1{
+  text-align: center;
+  color: red;
+}
+
 header {
   line-height: 1.5;
   max-height: 100vh;
